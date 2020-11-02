@@ -1,5 +1,5 @@
 # ClusterController
- Controller for raspberry pi clusters that allows custom messages to be sent to all client pis from command line.  
+ Controller for raspberry pi clusters that allows custom messages to be sent from server to all connected client pis from command line.  
 
 To use:  
 - controller.py runs on server pi (this is the terminal program that allows user input)  
